@@ -2,6 +2,8 @@
 
 This website is an example of a hosting website hosted on GitHub Pages. It provides information about the project and its features.
 
+Website Link: https://marcodluz.github.io/hosting-website
+
 ## Table of Contents
 
 - [Features](#features)
